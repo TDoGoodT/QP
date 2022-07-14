@@ -1,0 +1,20 @@
+[[package]]
+name = "generic-qaoa"
+version = "0.1.0"
+description = ""
+category = "main"
+optional = false
+python-versions = "^3.8"
+develop = false
+
+[package.source]
+type = "directory"
+url = "../generic_qaoa"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "eb89f4c6f404738f7120f4203d32c8fd758f442df8e809a8b27ce5b3ddd96f7f"
+
+[metadata.files]
+generic-qaoa = []
